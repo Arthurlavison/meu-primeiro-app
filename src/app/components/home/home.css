@@ -1,0 +1,9 @@
+/*AQUI DIMINUI A IMAGEM LOGO PARA UM TAMANHO MENOR*/
+.logo {
+    width: 120px;
+    height: auto;
+}
+.faixa {
+    width: 200px;
+    height: auto;
+}
